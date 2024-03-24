@@ -1,0 +1,8 @@
+FOLDER_TST: /home/dan/tst
+FOLDER_OUT: /home/dan/out
+FOLDER_1: /home/dan/folder1
+FOLDER_2: /home/dan/folder2
+ARC_TYPE: zip
+COUNT: 5
+BS: 1M
+
