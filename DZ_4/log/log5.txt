@@ -1,0 +1,9 @@
+апр 01 00:36:38 dan-New sshd[64512]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:38 dan-New systemd[1]: session-1373.scope: Deactivated successfully.
+апр 01 00:36:38 dan-New systemd-logind[653]: Session 1373 logged out. Waiting for processes to exit.
+апр 01 00:36:38 dan-New systemd-logind[653]: Removed session 1373.
+апр 01 00:36:38 dan-New sshd[64557]: Accepted password for user2 from 127.0.0.1 port 33110 ssh2
+апр 01 00:36:38 dan-New sshd[64557]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:36:38 dan-New systemd-logind[653]: New session 1374 of user user2.
+апр 01 00:36:38 dan-New snapd-desktop-i[31055]: Detected new session 1374 at /org/freedesktop/login1/session/_31374
+апр 01 00:36:38 dan-New systemd[1]: Started Session 1374 of User user2.

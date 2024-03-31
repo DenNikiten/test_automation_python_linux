@@ -1,0 +1,25 @@
+апр 01 00:36:31 dan-New sshd[63516]: Accepted password for user2 from 127.0.0.1 port 55716 ssh2
+апр 01 00:36:31 dan-New sshd[63516]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:36:31 dan-New systemd-logind[653]: New session 1349 of user user2.
+апр 01 00:36:31 dan-New snapd-desktop-i[31055]: Detected new session 1349 at /org/freedesktop/login1/session/_31349
+апр 01 00:36:31 dan-New systemd[1]: Started Session 1349 of User user2.
+апр 01 00:36:31 dan-New sshd[63516]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:31 dan-New sshd[63557]: Accepted password for user2 from 127.0.0.1 port 55732 ssh2
+апр 01 00:36:31 dan-New systemd[1]: session-1349.scope: Deactivated successfully.
+апр 01 00:36:31 dan-New systemd-logind[653]: Session 1349 logged out. Waiting for processes to exit.
+апр 01 00:36:31 dan-New systemd-logind[653]: Removed session 1349.
+апр 01 00:36:31 dan-New sshd[63557]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:36:31 dan-New systemd-logind[653]: New session 1350 of user user2.
+апр 01 00:36:31 dan-New snapd-desktop-i[31055]: Detected new session 1350 at /org/freedesktop/login1/session/_31350
+апр 01 00:36:31 dan-New systemd[1]: Started Session 1350 of User user2.
+апр 01 00:36:31 dan-New sudo[63598]:    user2 : user NOT in sudoers ; PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -i /home/user2/p7zip-full.deb
+апр 01 00:36:31 dan-New sshd[63600]: Accepted password for user2 from 127.0.0.1 port 55742 ssh2
+апр 01 00:36:31 dan-New sshd[63557]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:31 dan-New sshd[63600]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:36:31 dan-New systemd[1]: session-1350.scope: Deactivated successfully.
+апр 01 00:36:31 dan-New systemd-logind[653]: Session 1350 logged out. Waiting for processes to exit.
+апр 01 00:36:31 dan-New systemd-logind[653]: Removed session 1350.
+апр 01 00:36:31 dan-New systemd-logind[653]: New session 1351 of user user2.
+апр 01 00:36:31 dan-New snapd-desktop-i[31055]: Detected new session 1351 at /org/freedesktop/login1/session/_31351
+апр 01 00:36:31 dan-New systemd[1]: Started Session 1351 of User user2.
+апр 01 00:36:32 dan-New sudo[63640]:    user2 : user NOT in sudoers ; PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full

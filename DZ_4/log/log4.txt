@@ -1,0 +1,4 @@
+апр 01 00:36:38 dan-New sshd[64512]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:38 dan-New systemd[1]: session-1373.scope: Deactivated successfully.
+апр 01 00:36:38 dan-New systemd-logind[653]: Session 1373 logged out. Waiting for processes to exit.
+апр 01 00:36:38 dan-New systemd-logind[653]: Removed session 1373.

@@ -1,0 +1,23 @@
+апр 01 00:36:52 dan-New sshd[66701]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:52 dan-New systemd[1]: session-1426.scope: Deactivated successfully.
+апр 01 00:36:52 dan-New systemd-logind[653]: Session 1426 logged out. Waiting for processes to exit.
+апр 01 00:36:52 dan-New systemd-logind[653]: Removed session 1426.
+апр 01 00:36:52 dan-New sshd[66742]: Accepted password for user2 from 127.0.0.1 port 57780 ssh2
+апр 01 00:36:52 dan-New sshd[66742]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:36:52 dan-New systemd-logind[653]: New session 1427 of user user2.
+апр 01 00:36:52 dan-New snapd-desktop-i[31055]: Detected new session 1427 at /org/freedesktop/login1/session/_31427
+апр 01 00:36:52 dan-New systemd[1]: Started Session 1427 of User user2.
+апр 01 00:36:52 dan-New sudo[66782]:    user2 : user NOT in sudoers ; PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -r p7zip-full
+апр 01 00:36:52 dan-New sshd[66742]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:52 dan-New systemd[1]: session-1427.scope: Deactivated successfully.
+апр 01 00:36:52 dan-New systemd-logind[653]: Session 1427 logged out. Waiting for processes to exit.
+апр 01 00:36:52 dan-New systemd-logind[653]: Removed session 1427.
+апр 01 00:36:52 dan-New sshd[66783]: Accepted password for user2 from 127.0.0.1 port 57786 ssh2
+апр 01 00:36:52 dan-New sshd[66783]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:36:52 dan-New systemd-logind[653]: New session 1428 of user user2.
+апр 01 00:36:52 dan-New snapd-desktop-i[31055]: Detected new session 1428 at /org/freedesktop/login1/session/_31428
+апр 01 00:36:52 dan-New systemd[1]: Started Session 1428 of User user2.
+апр 01 00:36:52 dan-New sudo[66824]:    user2 : user NOT in sudoers ; PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full
+апр 01 00:36:52 dan-New sshd[66783]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:52 dan-New systemd[1]: session-1428.scope: Deactivated successfully.
+апр 01 00:36:52 dan-New systemd-logind[653]: Session 1428 logged out. Waiting for processes to exit.

@@ -1,0 +1,81 @@
+апр 01 00:39:10 dan-New sshd[68071]: Accepted password for user2 from 127.0.0.1 port 54770 ssh2
+апр 01 00:39:10 dan-New sshd[68071]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:39:10 dan-New systemd-logind[653]: New session 1458 of user user2.
+апр 01 00:39:10 dan-New snapd-desktop-i[31055]: Detected new session 1458 at /org/freedesktop/login1/session/_31458
+апр 01 00:39:10 dan-New systemd[1]: Started Session 1458 of User user2.
+апр 01 00:39:10 dan-New sshd[68071]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:39:10 dan-New systemd[1]: session-1458.scope: Deactivated successfully.
+апр 01 00:39:10 dan-New systemd-logind[653]: Session 1458 logged out. Waiting for processes to exit.
+апр 01 00:39:10 dan-New systemd-logind[653]: Removed session 1458.
+апр 01 00:39:10 dan-New sshd[68113]: Accepted password for user2 from 127.0.0.1 port 54778 ssh2
+апр 01 00:39:10 dan-New sshd[68113]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:39:10 dan-New systemd-logind[653]: New session 1459 of user user2.
+апр 01 00:39:10 dan-New snapd-desktop-i[31055]: Detected new session 1459 at /org/freedesktop/login1/session/_31459
+апр 01 00:39:10 dan-New systemd[1]: Started Session 1459 of User user2.
+апр 01 00:39:10 dan-New sshd[68113]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:39:10 dan-New systemd[1]: session-1459.scope: Deactivated successfully.
+апр 01 00:39:10 dan-New systemd-logind[653]: Session 1459 logged out. Waiting for processes to exit.
+апр 01 00:39:10 dan-New systemd-logind[653]: Removed session 1459.
+апр 01 00:39:10 dan-New sshd[68154]: Accepted password for user2 from 127.0.0.1 port 54782 ssh2
+апр 01 00:39:10 dan-New sshd[68154]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:39:10 dan-New systemd-logind[653]: New session 1460 of user user2.
+апр 01 00:39:10 dan-New snapd-desktop-i[31055]: Detected new session 1460 at /org/freedesktop/login1/session/_31460
+апр 01 00:39:10 dan-New systemd[1]: Started Session 1460 of User user2.
+апр 01 00:39:10 dan-New sshd[68195]: Accepted password for user2 from 127.0.0.1 port 54794 ssh2
+апр 01 00:39:10 dan-New sshd[68154]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:39:10 dan-New sshd[68195]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:39:10 dan-New systemd[1]: session-1460.scope: Deactivated successfully.
+апр 01 00:39:10 dan-New systemd-logind[653]: Session 1460 logged out. Waiting for processes to exit.
+апр 01 00:39:10 dan-New systemd-logind[653]: New session 1461 of user user2.
+апр 01 00:39:10 dan-New snapd-desktop-i[31055]: Detected new session 1461 at /org/freedesktop/login1/session/_31461
+апр 01 00:39:10 dan-New systemd[1]: Started Session 1461 of User user2.
+апр 01 00:39:10 dan-New systemd-logind[653]: Removed session 1460.
+апр 01 00:39:11 dan-New sshd[68195]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:39:11 dan-New systemd[1]: session-1461.scope: Deactivated successfully.
+апр 01 00:39:11 dan-New systemd-logind[653]: Session 1461 logged out. Waiting for processes to exit.
+апр 01 00:39:11 dan-New systemd-logind[653]: Removed session 1461.
+апр 01 00:39:11 dan-New sshd[68238]: Accepted password for user2 from 127.0.0.1 port 54800 ssh2
+апр 01 00:39:11 dan-New sshd[68238]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:39:11 dan-New systemd-logind[653]: New session 1462 of user user2.
+апр 01 00:39:11 dan-New snapd-desktop-i[31055]: Detected new session 1462 at /org/freedesktop/login1/session/_31462
+апр 01 00:39:11 dan-New systemd[1]: Started Session 1462 of User user2.
+апр 01 00:39:11 dan-New sshd[68238]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:39:11 dan-New systemd[1]: session-1462.scope: Deactivated successfully.
+апр 01 00:39:11 dan-New systemd-logind[653]: Session 1462 logged out. Waiting for processes to exit.
+апр 01 00:39:11 dan-New systemd-logind[653]: Removed session 1462.
+апр 01 00:39:11 dan-New sshd[68279]: Accepted password for user2 from 127.0.0.1 port 54810 ssh2
+апр 01 00:39:11 dan-New sshd[68279]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:39:11 dan-New systemd-logind[653]: New session 1463 of user user2.
+апр 01 00:39:11 dan-New snapd-desktop-i[31055]: Detected new session 1463 at /org/freedesktop/login1/session/_31463
+апр 01 00:39:11 dan-New systemd[1]: Started Session 1463 of User user2.
+апр 01 00:39:11 dan-New sshd[68279]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:39:11 dan-New systemd[1]: session-1463.scope: Deactivated successfully.
+апр 01 00:39:11 dan-New systemd-logind[653]: Session 1463 logged out. Waiting for processes to exit.
+апр 01 00:39:11 dan-New systemd-logind[653]: Removed session 1463.
+апр 01 00:39:11 dan-New sshd[68320]: Accepted password for user2 from 127.0.0.1 port 54822 ssh2
+апр 01 00:39:11 dan-New sshd[68320]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:39:11 dan-New systemd-logind[653]: New session 1464 of user user2.
+апр 01 00:39:11 dan-New snapd-desktop-i[31055]: Detected new session 1464 at /org/freedesktop/login1/session/_31464
+апр 01 00:39:11 dan-New systemd[1]: Started Session 1464 of User user2.
+апр 01 00:39:12 dan-New sshd[68320]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:39:12 dan-New sshd[68361]: Accepted password for user2 from 127.0.0.1 port 54830 ssh2
+апр 01 00:39:12 dan-New systemd[1]: session-1464.scope: Deactivated successfully.
+апр 01 00:39:12 dan-New systemd-logind[653]: Session 1464 logged out. Waiting for processes to exit.
+апр 01 00:39:12 dan-New sshd[68361]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:39:12 dan-New systemd-logind[653]: Removed session 1464.
+апр 01 00:39:12 dan-New systemd-logind[653]: New session 1465 of user user2.
+апр 01 00:39:12 dan-New snapd-desktop-i[31055]: Detected new session 1465 at /org/freedesktop/login1/session/_31465
+апр 01 00:39:12 dan-New systemd[1]: Started Session 1465 of User user2.
+апр 01 00:39:12 dan-New sshd[68361]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:39:12 dan-New systemd[1]: session-1465.scope: Deactivated successfully.
+апр 01 00:39:12 dan-New systemd-logind[653]: Session 1465 logged out. Waiting for processes to exit.
+апр 01 00:39:12 dan-New systemd-logind[653]: Removed session 1465.
+апр 01 00:39:12 dan-New sshd[68402]: Accepted password for user2 from 127.0.0.1 port 54838 ssh2
+апр 01 00:39:12 dan-New sshd[68402]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:39:12 dan-New systemd-logind[653]: New session 1466 of user user2.
+апр 01 00:39:12 dan-New snapd-desktop-i[31055]: Detected new session 1466 at /org/freedesktop/login1/session/_31466
+апр 01 00:39:12 dan-New systemd[1]: Started Session 1466 of User user2.
+апр 01 00:39:12 dan-New sshd[68402]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:39:12 dan-New systemd[1]: session-1466.scope: Deactivated successfully.
+апр 01 00:39:12 dan-New systemd-logind[653]: Session 1466 logged out. Waiting for processes to exit.
+апр 01 00:39:12 dan-New systemd-logind[653]: Removed session 1466.

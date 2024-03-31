@@ -1,0 +1,45 @@
+апр 01 00:36:33 dan-New sshd[63767]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:33 dan-New systemd-logind[653]: Session 1355 logged out. Waiting for processes to exit.
+апр 01 00:36:33 dan-New systemd[1]: session-1355.scope: Deactivated successfully.
+апр 01 00:36:33 dan-New systemd-logind[653]: Removed session 1355.
+апр 01 00:36:33 dan-New sshd[63808]: Accepted password for user2 from 127.0.0.1 port 55790 ssh2
+апр 01 00:36:33 dan-New sshd[63808]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:36:33 dan-New systemd-logind[653]: New session 1356 of user user2.
+апр 01 00:36:33 dan-New snapd-desktop-i[31055]: Detected new session 1356 at /org/freedesktop/login1/session/_31356
+апр 01 00:36:33 dan-New systemd[1]: Started Session 1356 of User user2.
+апр 01 00:36:33 dan-New sshd[63808]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:33 dan-New systemd[1]: session-1356.scope: Deactivated successfully.
+апр 01 00:36:33 dan-New systemd-logind[653]: Session 1356 logged out. Waiting for processes to exit.
+апр 01 00:36:33 dan-New systemd-logind[653]: Removed session 1356.
+апр 01 00:36:33 dan-New sshd[63849]: Accepted password for user2 from 127.0.0.1 port 55800 ssh2
+апр 01 00:36:33 dan-New sshd[63849]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:36:33 dan-New systemd-logind[653]: New session 1357 of user user2.
+апр 01 00:36:33 dan-New snapd-desktop-i[31055]: Detected new session 1357 at /org/freedesktop/login1/session/_31357
+апр 01 00:36:33 dan-New systemd[1]: Started Session 1357 of User user2.
+апр 01 00:36:33 dan-New sshd[63849]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:33 dan-New systemd[1]: session-1357.scope: Deactivated successfully.
+апр 01 00:36:33 dan-New systemd-logind[653]: Session 1357 logged out. Waiting for processes to exit.
+апр 01 00:36:33 dan-New systemd-logind[653]: Removed session 1357.
+апр 01 00:36:33 dan-New sshd[63891]: Accepted password for user2 from 127.0.0.1 port 55808 ssh2
+апр 01 00:36:33 dan-New sshd[63891]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:36:33 dan-New systemd-logind[653]: New session 1358 of user user2.
+апр 01 00:36:33 dan-New snapd-desktop-i[31055]: Detected new session 1358 at /org/freedesktop/login1/session/_31358
+апр 01 00:36:33 dan-New systemd[1]: Started Session 1358 of User user2.
+апр 01 00:36:33 dan-New sshd[63891]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:33 dan-New systemd-logind[653]: Session 1358 logged out. Waiting for processes to exit.
+апр 01 00:36:33 dan-New systemd[1]: session-1358.scope: Deactivated successfully.
+апр 01 00:36:33 dan-New systemd-logind[653]: Removed session 1358.
+апр 01 00:36:33 dan-New sshd[63932]: Accepted password for user2 from 127.0.0.1 port 55810 ssh2
+апр 01 00:36:33 dan-New sshd[63932]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:36:33 dan-New systemd-logind[653]: New session 1359 of user user2.
+апр 01 00:36:33 dan-New snapd-desktop-i[31055]: Detected new session 1359 at /org/freedesktop/login1/session/_31359
+апр 01 00:36:33 dan-New systemd[1]: Started Session 1359 of User user2.
+апр 01 00:36:34 dan-New sshd[63932]: pam_unix(sshd:session): session closed for user user2
+апр 01 00:36:34 dan-New systemd-logind[653]: Session 1359 logged out. Waiting for processes to exit.
+апр 01 00:36:34 dan-New systemd[1]: session-1359.scope: Deactivated successfully.
+апр 01 00:36:34 dan-New systemd-logind[653]: Removed session 1359.
+апр 01 00:36:34 dan-New sshd[63975]: Accepted password for user2 from 127.0.0.1 port 33002 ssh2
+апр 01 00:36:34 dan-New sshd[63975]: pam_unix(sshd:session): session opened for user user2(uid=1004) by (uid=0)
+апр 01 00:36:34 dan-New systemd-logind[653]: New session 1360 of user user2.
+апр 01 00:36:34 dan-New snapd-desktop-i[31055]: Detected new session 1360 at /org/freedesktop/login1/session/_31360
+апр 01 00:36:34 dan-New systemd[1]: Started Session 1360 of User user2.
